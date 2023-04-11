@@ -1,0 +1,32 @@
+/* css comment */
+/* Rules: selector, property, value */
+/* declaration is property and value */
+body {
+    background: red;
+    
+    display: grid;
+    justify-content: center;
+    align-content: center;
+  }
+  
+  
+  div {
+    background : pink;
+    width : 308px;
+    padding : 10px;
+  /*  border-radius: 12px;  */
+  }
+  
+  /* text-align : center; */
+  h1 {
+    text-align : center;
+  }
+  div {
+   font-size: 1.5em;
+    border-radius: 8px;
+  }/* Put border on image    border: 10px solid white */
+  img {
+    border-radius: 10px;
+    border: solid black;
+   
+  }
